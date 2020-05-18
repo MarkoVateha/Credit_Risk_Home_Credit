@@ -11,6 +11,6 @@ __Paper:__ Master thesis
 
 __Author:__ Marko Vateha
 
-__Institution:__ University of Economics and Business in Bratislava
+__Institution:__ University of Economics in Bratislava
 
 __Uploaded:__ May 15th, 2020
